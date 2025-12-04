@@ -1,10 +1,12 @@
 # 💧 소아 유지 수액 계산기 (Pediatric Fluid Calculator)
 
 > **"Calculated Care for Little Ones"** > 진료 현장에서 소아 환자의 유지 수액 용량을 신속하게 계산하기 위해 제작된 웹 기반 계산기입니다.
+>
+🔗 **Live Demo:**([https://drchoi36.github.io/](https://drchoi36.github.io/pages/fluid_calculator.html)
 
 ## 📋 개요 (Overview)
 
-이 프로젝트는 **Dr. Choi**가 개발한 간단한 웹 애플리케이션으로, 환아의 **나이**와 **체중**을 입력하면 하루에 필요한 총 수액량, 시간당 주입 속도(gtt/hr 아님, mL/hr), 그리고 연령별 권장 수액 종류를 즉시 계산하여 보여줍니다.
+이 프로젝트는 **Dr. Choi**가 개발한 간단한 웹 애플리케이션으로, 환아의 **나이**와 **체중**을 입력하면 하루에 필요한 총 수액량, 시간당 주입 속도(gtt/hr 아님, mL/hr), 그리고 연령별 권장 수액 종류를 즉시 계산하여 보여줍니다
 
 ## ✨ 주요 기능 (Features)
 
@@ -31,7 +33,6 @@
 * **> 8세:** D5 1/2NS + 20mEq/L KCl
 
 ---
-
 ## 🚀 사용 방법 (How to Use)
 
 1.  이 저장소를 클론(Clone)하거나 `fluid_calculator.html` 파일을 다운로드합니다.
@@ -59,7 +60,7 @@
 
 ## 👨‍⚕️ Author
 
-**Dr. Dr. Choi**
+**Dr. Choi**
 * GitHub: [DrChoi36](https://github.com/DrChoi36)
 
 <p align="center">
